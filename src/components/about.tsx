@@ -10,7 +10,7 @@ export default function About() {
 
         <div className="leading-relaxed tracking-wider mt-10 flex flex-col gap-8 text-lg">
           <p>
-            I'm <b>Vidushi Malik</b>, a dedicated Web Developer with a strong
+            I&apos;m <b>Vidushi Malik</b>, a dedicated Web Developer with a strong
             background in creating user-centric Web Applications. I graduated
             with a degree in <b>Bachelor of Technology(COMPUTER SCIENCE
             ENGINERRING)</b> from <b>AKTU University</b>, and a knack for technologies like
@@ -27,7 +27,7 @@ export default function About() {
           <p>
             In my free time, I tinker with personal projects like <b>Portfolio
             Website , Parking System , Authentication Forms</b> and exploring new
-            Frameworks and Tools. I'm constantly exploring new trends and
+            Frameworks and Tools. I&apos;m constantly exploring new trends and
             techniques in Web Development, with a particular interest in
             <b>Front-end performance optimization</b>.
           </p>

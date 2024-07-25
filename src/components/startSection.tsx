@@ -31,14 +31,14 @@ export default function StartSection() {
           <div className=" w-[85%] ">
             <h2 className="text-3xl font-medium">Hello, </h2>
             <h1 className=" text-3xl font-medium py-5 leading-normal">
-              I'm{" "}
+              I&apos;m{" "}
               <span className="text-5xl font-bold shiny-text">
                 Vidushi Malik
               </span>
               ,
             </h1>
             <p className="text-2xl font-medium leading-normal h-[7rem]">
-              I'm a{" "}
+              I&apos;m a{" "}
               <span className="text-4xl font-bold change-bio text-textTeal">
                 {bio}{" "}
               </span>
